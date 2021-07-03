@@ -1,0 +1,9 @@
+img {
+  width: 20rem;
+  height: 8rem;
+}
+a:visited {
+  color: green;
+  background: transparent;
+  text-decoration: none;
+}

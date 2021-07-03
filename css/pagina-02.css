@@ -1,0 +1,9 @@
+body {
+  background: black;
+  color: red;
+}
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
